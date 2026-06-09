@@ -820,7 +820,7 @@ img { max-width: 100%; display: block; object-fit: cover; }
     }
 
     .v2-hero-text-col { text-align: left; flex: 1; }
-    .v2-hero-img-col { flex-shrink: 0; }
+    .v2-hero-img-col { width: auto; flex-shrink: 0; }
     .v2-headline { font-size: 3rem; }
 
     .v2-hero-frame > img { width: 320px; height: 385px; }
